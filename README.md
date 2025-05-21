@@ -30,7 +30,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,php,codeigniter,flutter,dart,java,kotlin,python,mysql,bootstrap,tailwind,git,figma,ps,ai,blender,unity,swift" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,php,codeigniter,flutter,dart,java,python,mysql,bootstrap,tailwind,git,figma,ps,ai,blender,unity" />
 </p>
 
 > *Built with 💙 by Jhezy — UI/UX lover & Frontend craftsman.*
