@@ -52,7 +52,7 @@
       <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=codeigniter" width="40" /><br>CodeIgniter
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" /><br>Laravel
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flutter" width="40" /><br>Flutter
