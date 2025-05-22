@@ -29,9 +29,76 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,php,codeigniter,flutter,dart,java,python,mysql,bootstrap,tailwind,git,figma,ps,ai,blender,unity" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vue" width="40" /><br>Vue.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=codeigniter" width="40" /><br>CodeIgniter
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" /><br>Flutter
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dart" width="40" /><br>Dart
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40" /><br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ps" width="40" /><br>Photoshop
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ai" width="40" /><br>Illustrator
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=blender" width="40" /><br>Blender
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=unity" width="40" /><br>Unity
+    </td>
+  </tr>
+</table>
 
 > *Built with 💙 by Jhezy — UI/UX lover & Frontend craftsman.*
 
