@@ -46,8 +46,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="40" /><br>React
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=php" width="40" /><br>PHP
     </td>
@@ -80,8 +78,6 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" width="40" /><br>Figma
     </td>
